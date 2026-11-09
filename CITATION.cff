@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "tri2d-cli"
+title: "interactor-constrained-delaunay-2d-triangulation"
 authors:
   - family-names: Lee
     given-names: "K. S. Ernest (iFire)"
