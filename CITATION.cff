@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "tri2d-cli"
+authors:
+  - family-names: Lee
+    given-names: "K. S. Ernest (iFire)"
+license: MIT
+repository-code: "https://github.com/V-Sekai-fire/tri2d-cli"
+references:
+  - type: software
+    title: "Geogram"
+    authors:
+      - family-names: Lévy
+        given-names: Bruno
+      - name: Inria
+    url: "https://github.com/BrunoLevy/geogram"
+    license: BSD-3-Clause
